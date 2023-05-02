@@ -4,7 +4,7 @@
 
 <h2>Requirements</h2>
 
-<p>The list of dependencies are in [requirements.txt](./requirements.txt)</p>
+<p>The list of dependencies are in [requirements.txt](./requirements.txt). </p>
 
 
 <p>To download the COCO 2017 dataset, please follow the instructions on the <a href="https://cocodataset.org/#download">official website</a>.</p>
