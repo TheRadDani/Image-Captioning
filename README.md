@@ -4,15 +4,8 @@
 
 <h2>Requirements</h2>
 
-<p>The following libraries are required to run the code:</p>
+<p>The list of dependencies are in [requirements.txt](./requirements.txt)</p>
 
-<ul>
-  <li>Python 3.6 or higher</li>
-  <li>PyTorch 1.4 or higher</li>
-  <li>torchvision 0.5 or higher</li>
-  <li>h5py 2.10 or higher</li>
-  <li>numpy 1.19 or higher</li>
-</ul>
 
 <p>To download the COCO 2017 dataset, please follow the instructions on the <a href="https://cocodataset.org/#download">official website</a>.</p>
 
