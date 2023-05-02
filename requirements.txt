@@ -1,0 +1,8 @@
+
+nltk
+numpy
+opencv-python
+pycocotools
+scikit-image
+tensorflow
+matplotlib
