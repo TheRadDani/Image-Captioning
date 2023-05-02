@@ -4,7 +4,7 @@
 
 <h2>Requirements</h2>
 
-<p>You can find the project dependencies in the <a href="https://github.com/TheRadDani/Image-Captioning/blob/main/requirements.txt">requirements.txt</a> file.</p>
+<p>You can find the project dependencies in <a href="requirements.txt">requirements.txt</a>.</p>
 
 
 <p>To download the COCO 2017 dataset, please follow the instructions on the <a href="https://cocodataset.org/#download">official website</a>.</p>
