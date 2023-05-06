@@ -28,6 +28,7 @@
 <h2>References</h2>
 
 <ul>
+  <li>Plotting examples: <a href="https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocoDemo.ipynb">https://cocodataset.org/#download</a></li>
   <li>COCO 2017 dataset: <a href="https://cocodataset.org/#download">https://cocodataset.org/#download</a></li>
 </ul>
 
